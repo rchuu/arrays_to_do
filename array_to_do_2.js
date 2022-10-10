@@ -11,7 +11,6 @@ function reverseit(arr) {
 
         arr[i] = temp2
         arr[arr.length - 1 - i] = temp1
-
     }
     return arr
 }
