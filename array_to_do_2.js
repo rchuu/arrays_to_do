@@ -14,6 +14,7 @@ function reverseit(arr) {
     }
     return arr
 }
+
 console.log(reverseit([1, 2, 3, 4, 5, 6]))
 
 // Rotate
